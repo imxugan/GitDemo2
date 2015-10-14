@@ -3,6 +3,16 @@
 
     <string name="app_name">GitDemo2</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world!是一个入门的程序</string>
+    <string name="question">小米手机是android系统</string>
+    <string name="question1">小米手机是android系统1</string>
+    <string name="question2">小米手机是android系统2</string>
+    <string name="question3">小米手机是android系统3</string>
+    <string name="is_true">True</string>
+    <string name="is_false">False</string>
+    <string name="toast_incorrect">错误</string>
+    <string name="toast_correct">正确</string>
+    <string name="next">next</string>
+    <string name="preview">preview</string>
 
 </resources>
